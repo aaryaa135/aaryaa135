@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Once you start coding, there's no going back :)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://codepen.io/aarya-gupta-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aarya-gupta-the-flexboxer" height="30" width="40" /></a>
 <a href="https://twitter.com/aaryagupta28365" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaryagupta28365" height="30" width="40" /></a>

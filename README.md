@@ -9,18 +9,31 @@
 
 ---
 
-### About Me
-I am a **pre-final year B.Tech Computer Science student** based in India, with a strong interest in building **scalable, reliable, and well-structured software systems**.
+## 🧾 Developer Profile
+**Name:** Aarya Gupta  
+**Role:** Software Engineer (in training, shipping code meanwhile)  
+**Academic Status:** Pre-Final Year, B.Tech Computer Science  
+**Location:** India  
 
-My work primarily focuses on **full-stack web development**, with additional exposure to **machine learning** and **cloud-based solutions**. I value clean code, sound engineering principles, and practical problem-solving.
+🎯 **Primary Objective**  
+Design and build **scalable, maintainable software systems** that behave predictably in production and politely refuse to break on weekends.
 
-- 📍 Location: India  
-- 📫 Email: **aaryax135@gmail.com**  
+🧠 **Working Style**  
+Comfortable across the stack — frontend for usability, backend for correctness, and data when decisions should be evidence-based.  
+Prefers clarity over cleverness, except where cleverness reduces complexity.
+
+📫 **Professional Contact Channels**  
+- ✉️ Email: **aaryax135@gmail.com**  
 - 🔗 LinkedIn: **https://linkedin.com/in/aarya--gupta**
+
+⚡ **Observed Behavior**  
+Once you start coding, there is no going back. Debugging makes sure of that.
 
 ---
 
-### Programming Languages
+## 🌳 Skill Tree (Unlocked via Repetition and Documentation)
+
+### 🧩 Core Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -31,7 +44,7 @@ My work primarily focuses on **full-stack web development**, with additional exp
 
 ---
 
-### Web Development
+### 🌐 Web Development (Primary Build Path)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -46,7 +59,7 @@ My work primarily focuses on **full-stack web development**, with additional exp
 
 ---
 
-### Databases
+### 🗄️ Databases (Where State Is Remembered)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -55,7 +68,7 @@ My work primarily focuses on **full-stack web development**, with additional exp
 
 ---
 
-### Machine Learning
+### 🤖 Machine Learning (Applied Selectively)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
@@ -63,7 +76,7 @@ My work primarily focuses on **full-stack web development**, with additional exp
 
 ---
 
-### Tools & Cloud
+### 🛠️ Tools & Cloud (Standard Issue Equipment)
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -73,7 +86,7 @@ My work primarily focuses on **full-stack web development**, with additional exp
 
 ---
 
-### GitHub Activity
+## 📊 Progress Indicators (Public and Auditable)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryaa135&layout=compact"/>
 </p>
@@ -85,3 +98,11 @@ My work primarily focuses on **full-stack web development**, with additional exp
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaa135"/>
 </p>
+
+---
+
+## 🎯 Current Objectives
+- Build production-grade full-stack projects (the kind that survive refactors)
+- Strengthen backend fundamentals and system design intuition
+- Use machine learning when it improves outcomes, not slide decks
+- Prepare for internships and early-career software engineering roles

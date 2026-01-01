@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarya Gupta</h1>
 <h3 align="center">
-  Software Engineer • Full-Stack Web • Machine Learning • Cloud
+  Software Engineer | Full-Stack Web | Machine Learning | Cloud
 </h3>
 
 <p align="center">
@@ -9,32 +9,18 @@
 
 ---
 
-## 🧭 Developer Profile
-**Name:** Aarya Gupta  
-**Role:** Software Engineer (in progress, shipping code meanwhile)  
-**Status:** Pre-Final Year B.Tech Computer Science  
-**Location:** India  
+### About Me
+I am a **pre-final year B.Tech Computer Science student** based in India, with a strong interest in building **scalable, reliable, and well-structured software systems**.
 
-🎯 **Primary Objective**  
-Design and build **clean, scalable, and maintainable software systems**—preferably ones that solve real problems and do not require a README apology.
+My work primarily focuses on **full-stack web development**, with additional exposure to **machine learning** and **cloud-based solutions**. I value clean code, sound engineering principles, and practical problem-solving.
 
-🧠 **Working Style**  
-Comfortable across the stack:  
-frontend when pixels matter, backend when logic matters, and data when decisions matter.  
-Strong preference for clarity over cleverness (except when cleverness is justified).
-
-📫 **Official Communication Channels**  
-- ✉️ Email: **aaryax135@gmail.com**  
-- 🔗 LinkedIn: https://linkedin.com/in/aarya--gupta  
-
-⚡ **Fun Fact (Documented Behavior)**  
-Once you start coding, there’s no going back. Debugging ensures that.
+- 📍 Location: India  
+- 📫 Email: **aaryax135@gmail.com**  
+- 🔗 LinkedIn: **https://linkedin.com/in/aarya--gupta**
 
 ---
 
-## 🌳 Skill Tree (Unlocked Through Practice)
-
-### 🧩 Core Languages
+### Programming Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -45,7 +31,7 @@ Once you start coding, there’s no going back. Debugging ensures that.
 
 ---
 
-### 🌐 Web Development (Main Build Path)
+### Web Development
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -60,7 +46,7 @@ Once you start coding, there’s no going back. Debugging ensures that.
 
 ---
 
-### 🗄️ Databases (Where Data Actually Lives)
+### Databases
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -69,7 +55,7 @@ Once you start coding, there’s no going back. Debugging ensures that.
 
 ---
 
-### 🤖 Machine Learning (Used When It Makes Sense)
+### Machine Learning
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
@@ -77,7 +63,7 @@ Once you start coding, there’s no going back. Debugging ensures that.
 
 ---
 
-### 🛠️ Tools & Cloud (Daily Equipment)
+### Tools & Cloud
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -87,7 +73,7 @@ Once you start coding, there’s no going back. Debugging ensures that.
 
 ---
 
-## 📊 Progress Indicators (Publicly Verifiable)
+### GitHub Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryaa135&layout=compact"/>
 </p>
@@ -99,11 +85,3 @@ Once you start coding, there’s no going back. Debugging ensures that.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaa135"/>
 </p>
-
----
-
-## 🚀 Current Objectives
-- Build production-grade full-stack projects (not just demos)
-- Deepen backend and system design understanding
-- Apply ML only where it improves outcomes, not slides
-- Prepare for internships and early-career software roles

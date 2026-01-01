@@ -9,19 +9,32 @@
 
 ---
 
-### 👩‍💻 About Me
-I am a **pre-final year B.Tech Computer Science student** based in India, focused on building **reliable, scalable, and well-engineered software systems**.
+## 🧭 Developer Profile
+**Name:** Aarya Gupta  
+**Role:** Software Engineer (in progress, shipping code meanwhile)  
+**Status:** Pre-Final Year B.Tech Computer Science  
+**Location:** India  
 
-I enjoy working across the stack—from **frontend experience** to **backend architecture** and **data-driven intelligence**—with a strong emphasis on clean design and maintainable code.
+🎯 **Primary Objective**  
+Design and build **clean, scalable, and maintainable software systems**—preferably ones that solve real problems and do not require a README apology.
 
-- 📍 India  
-- 📫 **Email:** aaryax135@gmail.com  
-- 🔗 **LinkedIn:** https://linkedin.com/in/aarya--gupta  
-- ⚡ Fun fact: *Once you start coding, there’s no going back.*
+🧠 **Working Style**  
+Comfortable across the stack:  
+frontend when pixels matter, backend when logic matters, and data when decisions matter.  
+Strong preference for clarity over cleverness (except when cleverness is justified).
+
+📫 **Official Communication Channels**  
+- ✉️ Email: **aaryax135@gmail.com**  
+- 🔗 LinkedIn: https://linkedin.com/in/aarya--gupta  
+
+⚡ **Fun Fact (Documented Behavior)**  
+Once you start coding, there’s no going back. Debugging ensures that.
 
 ---
 
-### 🧠 Programming Languages
+## 🌳 Skill Tree (Unlocked Through Practice)
+
+### 🧩 Core Languages
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
@@ -32,7 +45,7 @@ I enjoy working across the stack—from **frontend experience** to **backend arc
 
 ---
 
-### 🌐 Web Development
+### 🌐 Web Development (Main Build Path)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
@@ -47,7 +60,7 @@ I enjoy working across the stack—from **frontend experience** to **backend arc
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases (Where Data Actually Lives)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -56,7 +69,7 @@ I enjoy working across the stack—from **frontend experience** to **backend arc
 
 ---
 
-### 🤖 Machine Learning
+### 🤖 Machine Learning (Used When It Makes Sense)
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
@@ -64,7 +77,7 @@ I enjoy working across the stack—from **frontend experience** to **backend arc
 
 ---
 
-### 🛠️ Tools & Cloud
+### 🛠️ Tools & Cloud (Daily Equipment)
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
@@ -74,7 +87,7 @@ I enjoy working across the stack—from **frontend experience** to **backend arc
 
 ---
 
-### 📊 GitHub Activity
+## 📊 Progress Indicators (Publicly Verifiable)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryaa135&layout=compact"/>
 </p>
@@ -86,3 +99,11 @@ I enjoy working across the stack—from **frontend experience** to **backend arc
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaryaa135"/>
 </p>
+
+---
+
+## 🚀 Current Objectives
+- Build production-grade full-stack projects (not just demos)
+- Deepen backend and system design understanding
+- Apply ML only where it improves outcomes, not slides
+- Prepare for internships and early-career software roles

@@ -31,58 +31,71 @@ Once you start coding, there is no going back. Debugging makes sure of that.
 
 ---
 
-## 🌳 Skill Tree (Unlocked via Repetition and Documentation)
+## 🌳 Skill Tree (Structured Systems View)
 
 ### 🧩 Core Programming Languages
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center"><b>C</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></td>
+<td align="center"><b>C++</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></td>
+<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td align="center"><b>JavaScript</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+<td align="center"><b>MySQL</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 🌐 Web Development (Primary Build Path)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
-  <img src="https://seeklogo.com/images/G/gsap-greensock-logo-13E9F2C6C6-seeklogo.com.png" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center"><b>HTML</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>CSS</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>Tailwind</b><br><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+<td align="center"><b>React</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>Next.js</b><br><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
+</tr>
+<tr>
+<td align="center"><b>Node.js</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>Express</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></td>
+<td align="center"><b>Three.js</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/></td>
+<td align="center"><b>GSAP</b><br><img src="https://seeklogo.com/images/G/gsap-greensock-logo-13E9F2C6C6-seeklogo.com.png" width="40"/></td>
+<td></td>
+</tr>
+</table>
 
 ---
 
 ### 🗄️ Databases (Where State Is Remembered)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center"><b>MySQL</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>PostgreSQL</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+<td align="center"><b>MongoDB</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 🤖 Machine Learning (Applied Selectively)
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center"><b>Python</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
+<td align="center"><b>Scikit-Learn</b><br><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 
 ### 🛠️ Tools & Cloud (Standard Issue Equipment)
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</p>
+<table>
+<tr>
+<td align="center"><b>Git</b><br><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
+<td align="center"><b>GitHub</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
+<td align="center"><b>AWS</b><br><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/></td>
+<td align="center"><b>Figma</b><br><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></td>
+</tr>
+</table>
 
 ---
 

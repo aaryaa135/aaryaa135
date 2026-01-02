@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarya Gupta</h1>
+
 <h3 align="center">
   Software Engineer | Full-Stack Web | Machine Learning | Cloud
 </h3>
@@ -10,28 +11,31 @@
 ---
 
 ## 🧾 Developer Profile
+
 **Name:** Aarya Gupta  
-**Role:** Software Engineer (in training, shipping code meanwhile)  
+**Role:** Software Engineer (in training, shipping features meanwhile)  
 **Academic Status:** Pre-Final Year, B.Tech Computer Science  
 **Location:** India  
 
 🎯 **Primary Objective**  
-Design and build **scalable, maintainable software systems** that behave predictably in production and politely refuse to break on weekends.
+Design and build **scalable, maintainable software systems** that behave predictably under load and politely refuse to fail in production.
 
 🧠 **Working Style**  
-Comfortable across the stack — frontend for usability, backend for correctness, and data when decisions should be evidence-based.  
-Prefers clarity over cleverness, except where cleverness reduces complexity.
+Comfortable across the stack — frontend for usability, backend for correctness, and data when decisions should be evidence-backed.  
+Prefers clarity over cleverness, except where cleverness demonstrably reduces complexity.
 
 📫 **Professional Contact Channels**  
 - ✉️ Email: **aaryax135@gmail.com**  
 - 🔗 LinkedIn: **https://linkedin.com/in/aarya--gupta**
 
 ⚡ **Observed Behavior**  
-Once you start coding, there is no going back. Debugging makes sure of that.
+Once a debugging session starts, time loses its linear properties.
 
 ---
 
 ## 🌳 Skill Tree (Structured Systems View)
+
+> Skills unlocked through repetition, documentation, and breaking things safely.
 
 ### 🧩 Core Programming Languages
 <table>
@@ -51,7 +55,7 @@ Once you start coding, there is no going back. Debugging makes sure of that.
 <tr>
 <td align="center"><b>HTML</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
 <td align="center"><b>CSS</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
-<td align="center"><b>Tailwind</b><br><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
+<td align="center"><b>Tailwind CSS</b><br><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
 <td align="center"><b>React</b><br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
 <td align="center"><b>Next.js</b><br><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
 </tr>
@@ -100,6 +104,7 @@ Once you start coding, there is no going back. Debugging makes sure of that.
 ---
 
 ## 📊 Progress Indicators (Public and Auditable)
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryaa135&layout=compact"/>
 </p>

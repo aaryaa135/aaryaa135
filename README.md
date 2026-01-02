@@ -13,29 +13,29 @@
 ## 🧾 Developer Profile
 
 **Name:** Aarya Gupta  
-**Role:** Software Engineer (in training, shipping features meanwhile)  
+**Role:** Software Engineer (in training, deploying courageously)  
 **Academic Status:** Pre-Final Year, B.Tech Computer Science  
 **Location:** India  
 
 🎯 **Primary Objective**  
-Design and build **scalable, maintainable software systems** that behave predictably under load and politely refuse to fail in production.
+Build **scalable, maintainable software systems** that work on weekdays, weekends, and under the emotional stress of demo day.
 
 🧠 **Working Style**  
-Comfortable across the stack — frontend for usability, backend for correctness, and data when decisions should be evidence-backed.  
-Prefers clarity over cleverness, except where cleverness demonstrably reduces complexity.
+Comfortable across the stack — frontend for humans, backend for machines, and data when opinions start getting loud.  
+Prefers clarity over cleverness, unless cleverness clearly reduces bugs, lines of code, or future regret.
 
 📫 **Professional Contact Channels**  
 - ✉️ Email: **aaryax135@gmail.com**  
 - 🔗 LinkedIn: **https://linkedin.com/in/aarya--gupta**
 
 ⚡ **Observed Behavior**  
-Once a debugging session starts, time loses its linear properties.
+Starts debugging “for 5 minutes”. Re-emerges several hours later with snacks and a solution.
 
 ---
 
 ## 🌳 Skill Tree (Structured Systems View)
 
-> Skills unlocked through repetition, documentation, and breaking things safely.
+> Skills unlocked through repetition, documentation, and controlled chaos.
 
 ### 🧩 Core Programming Languages
 <table>

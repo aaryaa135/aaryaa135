@@ -10,7 +10,7 @@
 
 ---
 
-## 🧾 Developer Profile
+## 🧾 Developer Profile !
 
 **Name:** Aarya Gupta  
 **Role:** Software Engineer (in training, deploying courageously)  

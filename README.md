@@ -102,20 +102,14 @@ Starts debugging “for 5 minutes”. Re-emerges several hours later with snacks
 </table>
 
 ---
-
 ## 📊 Progress Indicators (Public and Auditable)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaryaa135&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaryaa135&layout=compact&theme=tokyonight&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aaryaa135&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aaryaa135&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aaryaa135&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=aaryaa135&theme=tokyonight)
+
 
 
 ---

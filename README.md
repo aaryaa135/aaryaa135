@@ -46,7 +46,7 @@
 [✔] identity       →  Aarya Gupta
 [✔] handle         →  @aaryaa135
 [✔] os             →  Himachal Pradesh 🏔️
-[✔] kernel         →  B.Tech CS, Pre-Final Year
+[✔] kernel         →  B.Tech CS, Final Year
 [✔] runtime        →  Full-Stack Engineer
 [✔] uptime         →  Always building
 

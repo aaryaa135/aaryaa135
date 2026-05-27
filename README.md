@@ -31,40 +31,83 @@
 
 ---
 
-## `$ whoami`
+## 🖥️ `~/aarya $ boot --profile`
 
-```typescript
-const aarya: Developer = {
-  name        : "Aarya Gupta",
-  handle      : "aaryaa135",
-  location    : "Himachal Pradesh, India 🏔️",
-  education   : "B.Tech Computer Science — Pre-Final Year",
-  role        : "Full-Stack Software Engineer (deploying courageously)",
+<table>
+<tr>
+<td valign="top" width="50%">
 
-  passion     : "Building scalable, maintainable systems that work on weekdays,\n" +
-                "weekends, and under the emotional stress of demo day.",
+```bash
+┌─────────────────────────────────────┐
+│         SYSTEM BOOT LOG             │
+│  ██████████████████  100% loaded    │
+└─────────────────────────────────────┘
 
-  currentFocus: [
-    "🔨  Production-grade full-stack projects",
-    "🧠  Backend fundamentals & system design",
-    "📊  Machine learning — applied, not decorative",
-    "🎯  SDE internship & early-career prep",
-  ],
+[✔] identity       →  Aarya Gupta
+[✔] handle         →  @aaryaa135
+[✔] os             →  Himachal Pradesh 🏔️
+[✔] kernel         →  B.Tech CS, Pre-Final Year
+[✔] runtime        →  Full-Stack Engineer
+[✔] uptime         →  Always building
 
-  workingStyle: "Comfortable across the stack — frontend for humans, backend\n" +
-                "for machines, data when opinions start getting loud.\n" +
-                "Prefers clarity over cleverness (unless cleverness cuts bugs).",
+[✔] ports open     →  3000  (React)
+                       8080  (Node/Express)
+                       5432  (PostgreSQL)
+                       27017 (MongoDB)
 
-  contact: {
-    email    : "aaryax135@gmail.com",
-    linkedin : "linkedin.com/in/aarya--gupta",
-    portfolio: "aarya135-portfolio.netlify.app",
-    instagram: "@aaryaa_.0",
-  },
+[✔] email          →  aaryax135@gmail.com
+[✔] linkedin       →  in/aarya--gupta
+[✔] portfolio      →  aarya135-portfolio.netlify.app
 
-  funFact     : "Starts debugging 'for 5 minutes'. Re-emerges hours later with snacks and a solution.",
-};
+[!] WARNING        →  Starts debugging "for 5 mins"
+                       Resurfaces hours later
+                       with snacks and a fix 🍕
 ```
+
+</td>
+<td valign="top" width="50%">
+
+```python
+# aarya.py  —  import at your own risk 🐍
+
+class Aarya:
+    name     = "Aarya Gupta"
+    role     = "Full-Stack SDE (in training)"
+    location = "Himachal Pradesh, India 🏔️"
+
+    stack = {
+        "frontend" : ["React", "Next.js", "Tailwind",
+                      "Three.js", "GSAP"],
+        "backend"  : ["Node.js", "Express", "REST API"],
+        "database" : ["MySQL", "PostgreSQL", "MongoDB"],
+        "ml"       : ["Python", "Scikit-Learn",
+                      "NumPy", "Pandas"],
+        "cloud"    : ["AWS", "Netlify"],
+        "tools"    : ["Git", "Figma", "VS Code"],
+    }
+
+    focus = [
+        "🔨 Production-grade systems",
+        "🧠 System design & DSA",
+        "📊 Applied ML (not slide-deck ML)",
+        "🎯 Landing that first SDE role",
+    ]
+
+    @property
+    def philosophy(self):
+        return (
+          "Clarity > cleverness. "
+          "Unless cleverness cuts bugs. "
+          "Then cleverness."
+        )
+
+    def contact(self):
+        return "aaryax135@gmail.com ✉️"
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -191,7 +234,9 @@ const aarya: Developer = {
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aaryaa135&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryaa135&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
+</a>
 
 </div>
 
@@ -248,8 +293,34 @@ $ cat roadmap.txt
 
 <div align="center">
 
-[![retail-inventory-api](https://github-readme-stats.vercel.app/api/pin/?username=aaryaa135&repo=retail-inventory-api&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=A78BFA)](https://github.com/aaryaa135/retail-inventory-api)&nbsp;&nbsp;
-[![House-Price-Prediction](https://github-readme-stats.vercel.app/api/pin/?username=aaryaa135&repo=House-Price-Prediction&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E2E8F0&icon_color=A78BFA)](https://github.com/aaryaa135/House-Price-Prediction)
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [retail-inventory-api](https://github.com/aaryaa135/retail-inventory-api)
+> A production-style RESTful inventory management API built with Python.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Systems-6d28d9?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%E2%86%92-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryaa135/retail-inventory-api)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 [House-Price-Prediction](https://github.com/aaryaa135/House-Price-Prediction)
+> ML model predicting house prices using regression techniques and feature engineering.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-applied-22c55e?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-%E2%86%92-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryaa135/House-Price-Prediction)
+
+</td>
+</tr>
+</table>
 
 </div>
 

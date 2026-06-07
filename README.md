@@ -12,7 +12,7 @@
 <!-- ── TYPING TAGLINE ── -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Pre-Final+Year+CS+%E2%80%94+Himachal+Pradesh+%F0%9F%8F%94%EF%B8%8F;Full-Stack+%7C+Backend+%7C+Machine+Learning;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+AWS;Clean+Code.+Scalable+Systems.+Shipped.+%F0%9F%9A%80;Debugs+for+5+mins%2C+resurfaces+in+3+hrs+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+CS+%E2%80%94+Himachal+Pradesh+%F0%9F%8F%94%EF%B8%8F;Full-Stack+%7C+Backend+%7C+Machine+Learning;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+AWS;Clean+Code.+Scalable+Systems.+Shipped.+%F0%9F%9A%80;Debugs+for+5+mins%2C+resurfaces+in+3+hrs+%F0%9F%98%84)](https://git.io/typing-svg)
 
 </div>
 

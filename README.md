@@ -4,40 +4,57 @@
      ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ── HEADER WAVE ── -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=220&section=header&text=Aarya%20Gupta&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20ML%20%E2%80%A2%20Systems&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="header"/>
 
 <!-- ── CUTE CODING CAT (top-right, subtle) ── -->
+
 <img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="110" alt="coding cat 🐱"/>
 
 <!-- ── TYPING TAGLINE ── -->
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Final+Year+CS+%E2%80%94+Himachal+Pradesh+%F0%9F%8F%94%EF%B8%8F;Full-Stack+%7C+Backend+%7C+Machine+Learning;React+%E2%80%A2+Next.js+%E2%80%A2+Node+%E2%80%A2+Python+%E2%80%A2+AWS;Clean+Code.+Scalable+Systems.+Shipped.+%F0%9F%9A%80;Debugs+for+5+mins%2C+resurfaces+in+3+hrs+%F0%9F%98%84)](https://git.io/typing-svg)
+
 
 </div>
 
 <br/>
 
 <!-- ── SOCIAL BADGES ── -->
+
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=aaryaa135&label=Profile+Views&color=7c3aed&style=for-the-badge&logo=github)](https://github.com/aaryaa135)&nbsp;
-[![Followers](https://img.shields.io/github/followers/aaryaa135?label=Followers&style=for-the-badge&color=6d28d9&labelColor=1e1b4b&logo=github&logoColor=white)](https://github.com/aaryaa135?tab=followers)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarya--gupta)&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20%F0%9F%9F%A2-00C896?style=for-the-badge&logo=netlify&logoColor=white)](https://aarya135-portfolio.netlify.app/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-aaryax135%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aaryax135@gmail.com)
+ 
+ 
+ 
+ 
+
 
 </div>
 
----
+🎧 Recently Played
 
-## 🖥️ `~/aarya $ boot --profile`
+<div align="center">
+
+<a href="https://open.spotify.com/user/aarya">
+  <img
+    src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=aarya&theme=dark&count=5&width=540&radius=14&art=1&header=1&logo=1&profile=header&username=display&avatar=1&time=1&explicit=1"
+    width="540"
+    alt="Spotify Recently Played"
+  />
+</a>
+
+</div>
+
+🎵 Setup: Replace aarya with your Spotify user ID after connecting your Spotify account to the Spotify Recently Played README service.
+
+🖥️ ~/aarya $ boot --profile
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-```bash
 ┌─────────────────────────────────────┐
 │         SYSTEM BOOT LOG             │
 │  ██████████████████  100% loaded    │
@@ -62,12 +79,10 @@
 [!] WARNING        →  Starts debugging "for 5 mins"
                        Resurfaces hours later
                        with snacks and a fix 🍕
-```
 
 </td>
 <td valign="top" width="50%">
 
-```python
 # aarya.py  —  import at your own risk 🐍
 
 class Aarya:
@@ -103,19 +118,16 @@ class Aarya:
 
     def contact(self):
         return "aaryax135@gmail.com ✉️"
-```
 
 </td>
 </tr>
 </table>
 
----
+⚡ Tech Stack
 
-## ⚡ Tech Stack
+Every tool I've actually used — not just copy-pasted from a template.
 
-> Every tool I've actually used — not just copy-pasted from a template.
-
-### 🖥️ Languages
+🖥️ Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,mysql&theme=dark" alt="C, C++, Python, JavaScript, MySQL"/>
@@ -129,9 +141,7 @@ class Aarya:
   <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-### 🌐 Frontend
+🌐 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind,threejs&theme=dark" alt="Frontend stack"/>
@@ -147,9 +157,7 @@ class Aarya:
   <img alt="GSAP" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
 </p>
 
----
-
-### 🔧 Backend
+🔧 Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend stack"/>
@@ -161,9 +169,7 @@ class Aarya:
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
----
-
-### 🗄️ Databases
+🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="Databases"/>
@@ -175,9 +181,7 @@ class Aarya:
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 </p>
 
----
-
-### 🤖 Machine Learning & Data Science
+🤖 Machine Learning & Data Science
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" alt="ML stack"/>
@@ -191,9 +195,7 @@ class Aarya:
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 </p>
 
----
-
-### ☁️ Cloud, Tools & Environments
+☁️ Cloud, Tools & Environments
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,git,github,figma,vscode,linux&theme=dark" alt="Tools"/>
@@ -210,9 +212,7 @@ class Aarya:
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
@@ -224,35 +224,11 @@ class Aarya:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aaryaa135&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA&sideLabels=E2E8F0&dates=94A3B8&sideNums=E2E8F0&currStreakNum=ffffff)](https://git.io/streak-stats)
+
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=aaryaa135&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaryaa135&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F97316&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
+🐍 Watch My Contributions Get Eaten
 
 <div align="center">
 
@@ -266,13 +242,10 @@ class Aarya:
 
 </div>
 
-> ⚙️ *To generate the snake: copy `.github/workflows/snake.yml` from this repo and trigger the workflow once. It auto-regenerates every 12 hours.*
+⚙️ To generate the snake: copy .github/workflows/snake.yml from this repo and trigger the workflow once. It auto-regenerates every 12 hours.
 
----
+🎯 Current Objectives
 
-## 🎯 Current Objectives
-
-```bash
 $ cat roadmap.txt
 
 ▸ SHIPPING:
@@ -285,11 +258,8 @@ $ cat roadmap.txt
   [ ] First SWE / SDE internship offer
   [ ] Open-source contribution merged
   [ ] System that handles 10k+ concurrent users
-```
 
----
-
-## 📌 Featured Projects
+📌 Featured Projects
 
 <div align="center">
 
@@ -297,26 +267,28 @@ $ cat roadmap.txt
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [retail-inventory-api](https://github.com/aaryaa135/retail-inventory-api)
-> A production-style RESTful inventory management API built with Python.
+🛒 retail-inventory-api
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6B35?style=flat-square&logo=fastapi&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Systems-6d28d9?style=flat-square)
+A production-style RESTful inventory management API built with Python.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%E2%86%92-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryaa135/retail-inventory-api)
+
+
+
+
+
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 [House-Price-Prediction](https://github.com/aaryaa135/House-Price-Prediction)
-> ML model predicting house prices using regression techniques and feature engineering.
+🏠 House-Price-Prediction
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-applied-22c55e?style=flat-square)
+ML model predicting house prices using regression techniques and feature engineering.
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-%E2%86%92-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aaryaa135/House-Price-Prediction)
+
+
+
+
+
 
 </td>
 </tr>
@@ -324,31 +296,44 @@ $ cat roadmap.txt
 
 </div>
 
----
-
-## 📬 Let's Connect
+📬 Let's Connect
 
 <div align="center">
 
-| 🔗 Platform | 📎 Link |
-|:---|:---|
-| 📧 **Email** | [aaryax135@gmail.com](mailto:aaryax135@gmail.com) |
-| 💼 **LinkedIn** | [linkedin.com/in/aarya--gupta](https://www.linkedin.com/in/aarya--gupta) |
-| 🌐 **Portfolio** | [aarya135-portfolio.netlify.app](https://aarya135-portfolio.netlify.app/) |
-| 📸 **Instagram** | [@aaryaa_.0](https://www.instagram.com/aaryaa_.0) |
-| 🐙 **GitHub** | [github.com/aaryaa135](https://github.com/aaryaa135) |
+🔗 Platform
+
+📎 Link
+
+📧 Email
+
+aaryax135@gmail.com
+
+💼 LinkedIn
+
+linkedin.com/in/aarya--gupta
+
+🌐 Portfolio
+
+aarya135-portfolio.netlify.app
+
+📸 Instagram
+
+@aaryaa_.0
+
+🐙 GitHub
+
+github.com/aaryaa135
 
 </div>
 
 <div align="center">
 
-> *"The best time to clean up your code was during code review. The second best time is now."*
+"The best time to clean up your code was during code review. The second best time is now."
 
 </div>
-
----
 
 <!-- ── FOOTER WAVE ── -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,40:302b63,100:0f0c29&height=130&section=footer" width="100%" alt="footer"/>
 
 <div align="center">

@@ -15,6 +15,8 @@
 
 <div align="center">
 
+
+
 </div>
 
 <br/>
@@ -28,19 +30,6 @@
  
  
 
-</div>
-
-🎧 Recently Played
-
-<div align="center">
-
-<a href="https://open.spotify.com/user/316hrgwtsgw2obndfvv4tew76rpi">
-  <img
-    src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316hrgwtsgw2obndfvv4tew76rpi&theme=dark&count=5&width=540&radius=14&art=1&header=1&logo=1&profile=header&username=display&avatar=1&time=1&explicit=1"
-    width="540"
-    alt="Spotify Recently Played"
-  />
-</a>
 
 </div>
 
@@ -63,56 +52,56 @@
 [✔] uptime         →  Always building
 
 [✔] ports open     →  3000  (React)
-8080  (Node/Express)
-5432  (PostgreSQL)
-27017 (MongoDB)
+                       8080  (Node/Express)
+                       5432  (PostgreSQL)
+                       27017 (MongoDB)
 
 [✔] email          →  aaryax135@gmail.com
 [✔] linkedin       →  in/aarya--gupta
 [✔] portfolio      →  aarya135-portfolio.netlify.app
 
 [!] WARNING        →  Starts debugging "for 5 mins"
-Resurfaces hours later
-with snacks and a fix 🍕
+                       Resurfaces hours later
+                       with snacks and a fix 🍕
 
 </td>
 <td valign="top" width="50%">
 
-aarya.py  —  import at your own risk 🐍
+# aarya.py  —  import at your own risk 🐍
 
 class Aarya:
-name     = "Aarya Gupta"
-role     = "Full-Stack SDE (in training)"
-location = "Himachal Pradesh, India 🏔️"
+    name     = "Aarya Gupta"
+    role     = "Full-Stack SDE (in training)"
+    location = "Himachal Pradesh, India 🏔️"
 
-stack = {
-    "frontend" : ["React", "Next.js", "Tailwind",
-                  "Three.js", "GSAP"],
-    "backend"  : ["Node.js", "Express", "REST API"],
-    "database" : ["MySQL", "PostgreSQL", "MongoDB"],
-    "ml"       : ["Python", "Scikit-Learn",
-                  "NumPy", "Pandas"],
-    "cloud"    : ["AWS", "Netlify"],
-    "tools"    : ["Git", "Figma", "VS Code"],
-}
+    stack = {
+        "frontend" : ["React", "Next.js", "Tailwind",
+                      "Three.js", "GSAP"],
+        "backend"  : ["Node.js", "Express", "REST API"],
+        "database" : ["MySQL", "PostgreSQL", "MongoDB"],
+        "ml"       : ["Python", "Scikit-Learn",
+                      "NumPy", "Pandas"],
+        "cloud"    : ["AWS", "Netlify"],
+        "tools"    : ["Git", "Figma", "VS Code"],
+    }
 
-focus = [
-    "🔨 Production-grade systems",
-    "🧠 System design & DSA",
-    "📊 Applied ML (not slide-deck ML)",
-    "🎯 Landing that first SDE role",
-]
+    focus = [
+        "🔨 Production-grade systems",
+        "🧠 System design & DSA",
+        "📊 Applied ML (not slide-deck ML)",
+        "🎯 Landing that first SDE role",
+    ]
 
-@property
-def philosophy(self):
-    return (
-      "Clarity > cleverness. "
-      "Unless cleverness cuts bugs. "
-      "Then cleverness."
-    )
+    @property
+    def philosophy(self):
+        return (
+          "Clarity > cleverness. "
+          "Unless cleverness cuts bugs. "
+          "Then cleverness."
+        )
 
-def contact(self):
-    return "aaryax135@gmail.com ✉️"
+    def contact(self):
+        return "aaryax135@gmail.com ✉️"
 
 </td>
 </tr>
@@ -219,6 +208,26 @@ Every tool I've actually used — not just copy-pasted from a template.
 
 <div align="center">
 
+
+
+</div>
+
+🏆 GitHub Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=aaryaa135&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="100%"/>
+</a>
+
+</div>
+
+📈 Contribution Activity
+
+<div align="center">
+
+
+
 </div>
 
 🐍 Watch My Contributions Get Eaten
@@ -242,15 +251,15 @@ Every tool I've actually used — not just copy-pasted from a template.
 $ cat roadmap.txt
 
 ▸ SHIPPING:
-[████████████░░░]  82%   Production-grade full-stack project
-[██████████░░░░░]  68%   Backend & system design fundamentals
-[████████████░░░]  80%   SDE interview preparation
-[███████████░░░░]  74%   ML applied to real-world datasets
+  [████████████░░░]  82%   Production-grade full-stack project
+  [██████████░░░░░]  68%   Backend & system design fundamentals
+  [████████████░░░]  80%   SDE interview preparation
+  [███████████░░░░]  74%   ML applied to real-world datasets
 
 ▸ NEXT UNLOCKS:
-[ ] First SWE / SDE internship offer
-[ ] Open-source contribution merged
-[ ] System that handles 10k+ concurrent users
+  [ ] First SWE / SDE internship offer
+  [ ] Open-source contribution merged
+  [ ] System that handles 10k+ concurrent users
 
 📌 Featured Projects
 
@@ -264,12 +273,24 @@ $ cat roadmap.txt
 
 A production-style RESTful inventory management API built with Python.
 
+
+
+
+
+
+
 </td>
 <td width="50%" valign="top">
 
 🏠 House-Price-Prediction
 
 ML model predicting house prices using regression techniques and feature engineering.
+
+
+
+
+
+
 
 </td>
 </tr>
